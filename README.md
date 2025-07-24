@@ -44,4 +44,15 @@ syncmeet/
 git clone https://github.com/Manthan-Kansagara/syncmeet.git
 cd syncmeet
 
+## Install Dependencies
+
+### Backend
+```bash
+cd backend
+npm install
+
+cd ../frontend
+npm install
+
+
 
