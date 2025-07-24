@@ -46,10 +46,16 @@ cd syncmeet
 
 ## Install Dependencies
 
-### Backend
-
+### Backend & Frontend
+```bash
+# Navigate to backend and install dependencies
 cd backend
 npm install
+
+# Navigate to frontend and install dependencies
+cd ../frontend
+npm install
+
 
 cd ../frontend
 npm install
