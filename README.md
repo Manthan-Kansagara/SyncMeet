@@ -40,14 +40,14 @@ syncmeet/
 ## 🏁 Getting Started
 
 ### Clone the Repository
-```bash
+
 git clone https://github.com/Manthan-Kansagara/syncmeet.git
 cd syncmeet
 
 ## Install Dependencies
 
 ### Backend
-```bash
+
 cd backend
 npm install
 
